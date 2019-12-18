@@ -1452,6 +1452,12 @@
   num_female_eng: 1
   num_eng: 4
   last_updated: 2018-03-26
+[dlrivs]
+  company: DLR
+  team: SC-IVS
+  num_female_eng: 12
+  num_eng: 21
+  last_updated: 2019-12-18
 [heidrick]
   company: Heidrick & Struggles
   num_female_eng: 1
